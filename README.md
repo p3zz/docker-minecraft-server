@@ -2,6 +2,10 @@
 
 ## Docker
 
+### Setup
+
+The Dockerfile expects a "server.jar" file inside the root folder
+
 ### Build
 ```bash
 docker build -t mc-server .
